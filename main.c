@@ -1,6 +1,11 @@
 /*COP 3502C Midterm Assignment One
 This program is written by: Esteban Brugal*/
 
+/*This program takes an expression in infix, converts it to postfix with a stack,
+and then evaluates the expression. Also checks for balance in parenthesis.
+Doesn't account for random symbols and letters*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
