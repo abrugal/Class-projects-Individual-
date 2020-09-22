@@ -1,5 +1,4 @@
-/*COP 3502C Final term Assignment 2
-This program is written by: Esteban Brugal*/
+/*This program is written by: Esteban Brugal*/
 
 /*Takes an input.txt file that starts with 3 numbers. These are the number of words,
 number of words searched from the tree, and number of words deleted. The words are then
